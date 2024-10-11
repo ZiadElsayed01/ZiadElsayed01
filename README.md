@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm **Ziad El-Sayed**, a Frontend Developer specializing in **React.js** and **Next.js** from Egypt.</h1>
+<h1 align="center">👋 Hi, I'm Ziad El-Sayed, a Frontend Developer specializing in React.js and Next.js from Egypt.</h1>
 
 ###
 
@@ -58,11 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ZiadElsayed01/ZiadElsayed01/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ZiadElsayed01/ZiadElsayed01/output/snake.svg" alt="Snake animation" /
 
-###
 
-<div align="left">
-</div>
-
-###
