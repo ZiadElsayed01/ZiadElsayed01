@@ -1,8 +1,8 @@
-<br clear="both">
-
 <h1 align="left">👋 Hi, I'm Ziad El-Sayed, a Frontend Developer specializing in React.js and Next.js from Egypt.</h1>
 
 <h3 align="left">✨ I have expertise in converting designs (PSD/XD/Figma) to HTML, CSS, and React, crafting pixel-perfect, fully responsive landing pages, and creating dynamic, user-friendly websites. <br>💻 I am proficient in JavaScript, Tailwind CSS, and Bootstrap, enabling me to create modern, scalable, and interactive web applications.</h3>
+
+##
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ZiadElsayed01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -10,6 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZiadElsayed01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+##
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
@@ -46,6 +47,8 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
 </div>
+
+##
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ziad-el-sayed-1b0939233/" target="_blank">
