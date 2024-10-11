@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">✨ I have expertise in converting designs (PSD/XD/Figma) to HTML, CSS, and React, crafting pixel-perfect, fully responsive landing pages, and creating dynamic, user-friendly websites. <br>💻 I am proficient in JavaScript, Tailwind CSS, and Bootstrap, enabling me to create modern, scalable, and interactive web applications.</p>
+<h3 align="left">✨ I have expertise in converting designs (PSD/XD/Figma) to HTML, CSS, and React, crafting pixel-perfect, fully responsive landing pages, and creating dynamic, user-friendly websites. <br>💻 I am proficient in JavaScript, Tailwind CSS, and Bootstrap, enabling me to create modern, scalable, and interactive web applications.</h3>
 
 ###
 
