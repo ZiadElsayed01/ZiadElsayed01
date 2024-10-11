@@ -2,15 +2,7 @@
 
 <h1 align="left">👋 Hi, I'm Ziad El-Sayed, a Frontend Developer specializing in React.js and Next.js from Egypt.</h1>
 
-###
-
-<br clear="both">
-
 <h3 align="left">✨ I have expertise in converting designs (PSD/XD/Figma) to HTML, CSS, and React, crafting pixel-perfect, fully responsive landing pages, and creating dynamic, user-friendly websites. <br>💻 I am proficient in JavaScript, Tailwind CSS, and Bootstrap, enabling me to create modern, scalable, and interactive web applications.</h3>
-
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ZiadElsayed01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
