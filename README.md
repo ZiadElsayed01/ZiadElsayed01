@@ -37,6 +37,9 @@
 [**Suez Canal University**](https://suez.edu.eg/ar/en/) • In Progress  
 Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
 
+
+<br>
+
 ---
 
 ## 🏫 Route Academy
@@ -45,6 +48,9 @@ Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
 **Full Stack Web Development Intern (MERN Stack)**  
 [**Route Academy**] • 2025  
 Skills: `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `API Integration` `Authentication & Authorization` `Responsive Design` `Clean Code`
+
+
+<br>
 
 ---
 
@@ -61,6 +67,9 @@ Skills: `HTML` `CSS` `JavaScript` `React` `UI/UX`
 **Back-End Web Development Intern**  
 [Information Technology Institute (ITI)](https://iti.gov.eg/home) • 2024  
 Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
+
+
+<br>
 
 ---
 
@@ -80,6 +89,6 @@ Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
 
 <div>
   <a href="mailto:ziadelsayed046@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ziadelsayed01/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ziad-el-sayed-1b0939233/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
