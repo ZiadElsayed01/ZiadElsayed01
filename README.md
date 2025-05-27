@@ -68,17 +68,8 @@ Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
 
 [<img align="left" height="94px" width="94px" alt="GDSC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCV-atssgHLlGfIl8pCaB3NsDGzgGl_DMtQ&s"/>]
 **Vice Head at GDSC SCU**  
-[Google Developer Student Clubs – SCU] • 2024  
+[**Google Developer Student Clubs – SCU**] • 2024  
 Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
-
----
-
-## 📫 Contact Me
-
-<div>
-  <a href="mailto:ziadelsayed046@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ziad-el-sayed-1b0939233/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
 
 ---
 
@@ -88,3 +79,11 @@ Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZiadElsayed01/ZiadElsayed01/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+## 📫 Contact Me
+
+<div>
+  <a href="mailto:ziadelsayed046@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ziad-el-sayed-1b0939233/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
