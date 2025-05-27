@@ -19,19 +19,16 @@
 
 ---
 
-## 🧠 Tech Stack
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer illustration" />
-
 #### 🚀 Main Stack:
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,sass,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,nestjs,nodejs,express,mongodb,mysql" />
 
 #### 🔧 Tools:
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,docker,figma,linux" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,docker,figma" />
 
 #### 📘 Familiar With:
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,vercel" />
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer illustration" />
 ---
 
 ## 🎓 Academic Background
@@ -70,7 +67,7 @@ Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
 
 ## 🧑‍💻 Student Activities
 
-[<img align="left" height="94px" width="94px" alt="GDSC SCU" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Google_Developer_Student_Clubs_logo.svg/512px-Google_Developer_Student_Clubs_logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCV-atssgHLlGfIl8pCaB3NsDGzgGl_DMtQ&s)"/>](https://gdsc.community.dev/)
+[<img align="left" height="94px" width="94px" alt="GDSC SCU" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Google_Developer_Student_Clubs_logo.svg/512px-Google_Developer_Student_Clubs_logo.svg.png]
 **Vice Head at GDSC SCU**  
 [Google Developer Student Clubs – SCU] • 2024 
 Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
