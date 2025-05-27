@@ -47,7 +47,7 @@ Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
 
 ## 🏫 Route Academy
 
-[<img align="left" height="94px" width="94px" alt="Route Academy" src="https://media.licdn.com/dms/image/D4E0BAQFg41-dEqcClA/company-logo_200_200/0/1708029466092/routeacademy_logo?e=2147483647&v=beta&t=oeUJkt4xQ9RoxzloW-LsACUU3M-9k9LdHnDkw7XxEmY"/>](https://routeacademy.com/)
+[<img align="left" height="94px" width="94px" alt="Route Academy" src="[https://media.licdn.com/dms/image/D4E0BAQFg41-dEqcClA/company-logo_200_200/0/1708029466092/routeacademy_logo?e=2147483647&v=beta&t=oeUJkt4xQ9RoxzloW-LsACUU3M-9k9LdHnDkw7XxEmY](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FRoutelearning%2F&psig=AOvVaw0XMhcVedhTZJHOAR0TQ0SB&ust=1748405129564000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKif_-niwo0DFQAAAAAdAAAAABAE)"/>](https://routeacademy.com/)
 **Full Stack Web Development Intern (MERN Stack)**  
 [**Route Academy**](https://routeacademy.com/) • 2024  
 Skills: `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `API Integration` `Authentication & Authorization` `Responsive Design` `Clean Code`
