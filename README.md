@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=87B2BB&size=35&center=true&vCenter=true&width=1000&lines=As-Salamu+Alaykum!;My+name+is+Ziad+Elsayed;Welcome+to+my+GitHub+account)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=87B2BB&size=35&center=true&vCenter=true&width=1000&lines=As-Salamu+Alaykum!;My+name+is+Ziad+Elsayed+Ibrahem;Welcome+to+my+GitHub+account)](https://git.io/typing-svg)
 
 <h3 align="center">"Make it work, make it right, make it fast."</h3>
 <h4 align="center">- Kent Beck -</h4>
