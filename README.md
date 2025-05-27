@@ -1,7 +1,5 @@
-<h1 align="center"> Ziad El-Sayed Ibrahem</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Egypt. I love building modern web applications using JavaScript, React, Node.js, and MongoDB.</h3>
-
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=87B2BB&size=35&center=true&vCenter=true&width=1000&lines=As-Salamu+Alaykum!;My+name+is+Ziad+Elsayed;Welcome+to+my+GitHub+account)](https://git.io/typing-svg)
 
@@ -26,13 +24,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer illustration" />
 
 #### 🚀 Main Stack:
-[<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" />]
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,sass,html,css" />
 
 #### 🔧 Tools:
-[<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux" />]
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,docker,figma,linux" />
 
 #### 📘 Familiar With:
-[<img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,vercel,firebase" />]
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,vercel" />
 
 ---
 
@@ -47,19 +45,37 @@ Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
 
 ## 🏫 Route Academy
 
-[<img align="left" height="94px" width="94px" alt="Route Academy" src="https://yt3.googleusercontent.com/ytc/AIdro_krEjITi07cOEBrX0041BBduaCdRKLUO4o6MmV6C5VfiJo=s160-c-k-c0x00ffffff-no-rj"/>](https://routeacademy.com/)
+[<img align="left" height="94px" width="94px" alt="Route Academy" src="https://yt3.googleusercontent.com/ytc/AIdro_krEjITi07cOEBrX0041BBduaCdRKLUO4o6MmV6C5VfiJo=s160-c-k-c0x00ffffff-no-rj"/>]
 **Full Stack Web Development Intern (MERN Stack)**  
-[**Route Academy**](https://routeacademy.com/) • 2024  
+[**Route Academy**] • 2025  
 Skills: `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `API Integration` `Authentication & Authorization` `Responsive Design` `Clean Code`
+
+---
+
+## 🧑‍💼 Internships & Experience
+
+[<img align="left" height="94px" width="94px" alt="ITI Logo" src="https://agri.sohag-univ.edu.eg/main/wp-content/uploads/2019/03/AgriIti.jpg"/>](https://www.iti.gov.eg/)
+**Front-End Web Development Intern**  
+[Information Technology Institute (ITI)](https://iti.gov.eg/home) • 2023  
+Skills: `HTML` `CSS` `JavaScript` `React` `UI/UX`
+
+<br>
+
+[<img align="left" height="94px" width="94px" alt="ITI Logo" src="https://agri.sohag-univ.edu.eg/main/wp-content/uploads/2019/03/AgriIti.jpg"/>](https://www.iti.gov.eg/)
+**Back-End Web Development Intern**  
+[Information Technology Institute (ITI)](https://iti.gov.eg/home) • 2024  
+Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
 
 ---
 
 ## 🧑‍💻 Student Activities
 
-[<img align="left" height="94px" width="94px" alt="Microsoft Student Club SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pPQ23qPDGlrq0jMISlIAAP2dVfDWtEFa0g&s"/>](https://m.facebook.com/MicrosoftSCU/)
-**Frontend Member at Microsoft Student Club SCU**  
-[Microsoft Student Club SCU](https://m.facebook.com/MicrosoftSCU/) • In Progress  
-Skills: `React` `REST APIs` `UI/UX`
+[<img align="left" height="94px" width="94px" alt="GDSC SCU" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Google_Developer_Student_Clubs_logo.svg/512px-Google_Developer_Student_Clubs_logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCV-atssgHLlGfIl8pCaB3NsDGzgGl_DMtQ&s)"/>](https://gdsc.community.dev/)
+**Vice Head at GDSC SCU**  
+[Google Developer Student Clubs – SCU] • 2024 
+Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
+
+<br>
 
 ---
 
