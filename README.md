@@ -9,10 +9,10 @@
 <br/>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <div style="width:35%; height:160px; overflow: hidden;">
+  <div style="width:20%; height:100px; overflow: hidden;">
     <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-streak-stats.herokuapp.com?user=ZiadElsayed01&theme=radical&date_format=j%20M%5B%20Y%5D" />
   </div>
-  <div style="width:35%; height:160px; overflow: hidden;">
+  <div style="width:20%; height:100px; overflow: hidden;">
     <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElsayed01&layout=compact&theme=radical" />
   </div>
 </div>
