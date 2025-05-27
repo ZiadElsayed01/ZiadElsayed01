@@ -43,7 +43,7 @@ Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
 
 [<img align="left" height="94px" width="94px" alt="Route Academy" src="https://yt3.googleusercontent.com/ytc/AIdro_krEjITi07cOEBrX0041BBduaCdRKLUO4o6MmV6C5VfiJo=s160-c-k-c0x00ffffff-no-rj"/>]
 **Full Stack Web Development Intern (MERN Stack)**  
-[**Route Academy**] • 2025  
+**Route Academy** • 2025  
 Skills: `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `API Integration` `Authentication & Authorization` `Responsive Design` `Clean Code`
 
 ---
@@ -68,7 +68,7 @@ Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
 
 [<img align="left" height="94px" width="94px" alt="GDSC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCV-atssgHLlGfIl8pCaB3NsDGzgGl_DMtQ&s"/>]
 **Vice Head at GDSC SCU**  
-[**Google Developer Student Clubs – SCU**] • 2024  
+**Google Developer Student Clubs – SCU** • 2024  
 Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
 
 ---
