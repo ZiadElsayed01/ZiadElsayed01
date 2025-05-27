@@ -8,10 +8,15 @@
 
 <br/>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img width="40%" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=ZiadElsayed01&theme=radical&date_format=j%20M%5B%20Y%5D" />
-  <img width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElsayed01&layout=compact&theme=radical" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="width:40%; height:200px; overflow: hidden;">
+    <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-streak-stats.herokuapp.com?user=ZiadElsayed01&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  </div>
+  <div style="width:40%; height:200px; overflow: hidden;">
+    <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElsayed01&layout=compact&theme=radical" />
+  </div>
 </div>
+
 
 <br/>
 
