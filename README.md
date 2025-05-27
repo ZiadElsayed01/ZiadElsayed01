@@ -29,6 +29,9 @@
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,vercel" />
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer illustration" />
+
+<br/>
+
 ---
 
 ## 🎓 Academic Background
@@ -67,10 +70,11 @@ Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
 
 ## 🧑‍💻 Student Activities
 
-[<img align="left" height="94px" width="94px" alt="GDSC SCU" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Google_Developer_Student_Clubs_logo.svg/512px-Google_Developer_Student_Clubs_logo.svg.png]
+[<img align="left" height="94px" width="94px" alt="GDSC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCV-atssgHLlGfIl8pCaB3NsDGzgGl_DMtQ&s"/>]
 **Vice Head at GDSC SCU**  
-[Google Developer Student Clubs – SCU] • 2024 
+[Google Developer Student Clubs – SCU] • 2024  
 Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
+
 
 <br>
 
