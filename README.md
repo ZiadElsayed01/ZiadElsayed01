@@ -28,10 +28,6 @@
 #### 📘 Familiar With:
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,vercel" />
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer illustration" />
-
-<br/>
-
 ---
 
 ## 🎓 Academic Background
@@ -83,7 +79,7 @@ Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
 ## 📫 Contact Me
 
 <div>
-  <a href="mailto:ziadelsayed935@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ziadelsayed046@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ziadelsayed01/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
