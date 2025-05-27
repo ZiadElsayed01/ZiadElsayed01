@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=ZiadElsayed01&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=ZiadElsayed01&theme=radical&date_format=j%20M%5B%20Y%5D" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElsayed01&layout=compact&theme=radical" />
 </div>
 
@@ -49,7 +49,6 @@ Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
 [**Route Academy**] • 2025  
 Skills: `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `API Integration` `Authentication & Authorization` `Responsive Design` `Clean Code`
 
-
 <br>
 
 ---
@@ -68,7 +67,6 @@ Skills: `HTML` `CSS` `JavaScript` `React` `UI/UX`
 [Information Technology Institute (ITI)](https://iti.gov.eg/home) • 2024  
 Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
 
-
 <br>
 
 ---
@@ -79,7 +77,6 @@ Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
 **Vice Head at GDSC SCU**  
 [Google Developer Student Clubs – SCU] • 2024  
 Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
-
 
 <br>
 
