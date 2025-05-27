@@ -37,9 +37,6 @@
 [**Suez Canal University**](https://suez.edu.eg/ar/en/) • In Progress  
 Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
 
-
-<br>
-
 ---
 
 ## 🏫 Route Academy
@@ -48,8 +45,6 @@ Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
 **Full Stack Web Development Intern (MERN Stack)**  
 [**Route Academy**] • 2025  
 Skills: `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `API Integration` `Authentication & Authorization` `Responsive Design` `Clean Code`
-
-<br>
 
 ---
 
@@ -67,8 +62,6 @@ Skills: `HTML` `CSS` `JavaScript` `React` `UI/UX`
 [Information Technology Institute (ITI)](https://iti.gov.eg/home) • 2024  
 Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
 
-<br>
-
 ---
 
 ## 🧑‍💻 Student Activities
@@ -77,8 +70,6 @@ Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
 **Vice Head at GDSC SCU**  
 [Google Developer Student Clubs – SCU] • 2024  
 Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
-
-<br>
 
 ---
 
