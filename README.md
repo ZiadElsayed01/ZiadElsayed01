@@ -1,24 +1,72 @@
 <h1 align="center"> Ziad El-Sayed Ibrahem</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Egypt. I love building modern web applications using JavaScript, React, Node.js, and MongoDB.</h3>
 
-###
-<h3 align="center">Always learning, always coding 💻✨</h3>
-###
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadelsayed01" alt="ziadelsayed01" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=87B2BB&size=35&center=true&vCenter=true&width=1000&lines=As-Salamu+Alaykum!;My+name+is+Ziad+Elsayed;Welcome+to+my+GitHub+account)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on [Graduation Project](https://github.com/ZiadElsayed01/grad-project)
+<h3 align="center">"Make it work, make it right, make it fast."</h3>
+<h4 align="center">- Kent Beck -</h4>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ziad elsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad elsayed" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=ZiadElsayed01&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElsayed01&layout=compact&theme=radical" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadelsayed01&show_icons=true&locale=en&layout=compact" alt="ziadelsayed01" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadelsayed01&show_icons=true&locale=en" alt="ziadelsayed01" /></p>
+![](https://komarev.com/ghpvc/?username=ZiadElsayed01)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadelsayed01&" alt="ziadelsayed01" /></p>
+---
+
+## 🧠 Tech Stack
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computer illustration" />
+
+#### 🚀 Main Stack:
+[<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,bootstrap" />]
+
+#### 🔧 Tools:
+[<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux" />]
+
+#### 📘 Familiar With:
+[<img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,vercel,firebase" />]
+
+---
+
+## 🎓 Academic Background
+
+[<img align="left" height="94px" width="94px" alt="Suez Canal University" src="https://scu.eg/storage/2023/03/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3.png"/>](https://suez.edu.eg/ar/en/)
+**Computer Science Undergraduate**  
+[**Suez Canal University**](https://suez.edu.eg/ar/en/) • In Progress  
+Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
+
+---
+
+## 🏫 Route Academy
+
+[<img align="left" height="94px" width="94px" alt="Route Academy" src="https://media.licdn.com/dms/image/D4E0BAQFg41-dEqcClA/company-logo_200_200/0/1708029466092/routeacademy_logo?e=2147483647&v=beta&t=oeUJkt4xQ9RoxzloW-LsACUU3M-9k9LdHnDkw7XxEmY"/>](https://routeacademy.com/)
+**Full Stack Web Development Intern (MERN Stack)**  
+[**Route Academy**](https://routeacademy.com/) • 2024  
+Skills: `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `API Integration` `Authentication & Authorization` `Responsive Design` `Clean Code`
+
+---
+
+## 🧑‍💻 Student Activities
+
+[<img align="left" height="94px" width="94px" alt="Microsoft Student Club SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pPQ23qPDGlrq0jMISlIAAP2dVfDWtEFa0g&s"/>](https://m.facebook.com/MicrosoftSCU/)
+**Frontend Member at Microsoft Student Club SCU**  
+[Microsoft Student Club SCU](https://m.facebook.com/MicrosoftSCU/) • In Progress  
+Skills: `React` `REST APIs` `UI/UX`
+
+---
+
+## 📫 Contact Me
+
+<div>
+  <a href="mailto:ziadelsayed935@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ziadelsayed01/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
