@@ -33,8 +33,8 @@
 ## 🎓 Academic Background
 
 [<img align="left" height="94px" width="94px" alt="Suez Canal University" src="https://scu.eg/storage/2023/03/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3.png"/>](https://suez.edu.eg/ar/en/)
-**Computer Science Undergraduate**  
-[**Suez Canal University**](https://suez.edu.eg/ar/en/) • In Progress  
+**Computer Science**  
+[**Suez Canal University**](https://suez.edu.eg/ar/en/) • 
 Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
 
 ---
