@@ -63,16 +63,6 @@ Skills: `HTML` `CSS` `JavaScript` `React` `UI/UX`
 Skills: `Node.js` `Express` `MongoDB` `Authentication` `RESTful APIs`
 
 ---
-
-## 🧑‍💻 Student Activities
-
-[<img align="left" height="94px" width="94px" alt="GDSC SCU" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCV-atssgHLlGfIl8pCaB3NsDGzgGl_DMtQ&s"/>]
-**Vice Head at GDSC SCU**  
-**Google Developer Student Clubs – SCU** • 2024  
-Skills: `Team Leadership` `Event Planning` `Mentorship` `Frontend Development`
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZiadElsayed01/ZiadElsayed01/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZiadElsayed01/ZiadElsayed01/output/github-contribution-grid-snake.svg">
