@@ -59,7 +59,7 @@ Skills: `Data Structures` `Algorithms` `Web Development` `OOP` `DBMS`
 
 ## 🏫 Elevate Tech
 
-<img align="left" height="120px" width="140px" alt="Route Academy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxG72ETb2joZL6wW65MjuNjCVZlDkaxMgRnC9q-dLLig&s=10"/>
+<img align="left" height="140px" width="140px" alt="Route Academy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxG72ETb2joZL6wW65MjuNjCVZlDkaxMgRnC9q-dLLig&s=10"/>
 
 **Part-Time Front-End Developer**  
 **Route Academy** • 2026 – Present  
