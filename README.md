@@ -6,8 +6,18 @@
 
 <h3 align="center">"Make it work, make it right, make it fast."</h3>
 
-<br/>
+---
 
+## 👨‍💻 About Me
+
+Hi, I'm Ziad El-Sayed, a Frontend Developer passionate about building modern, scalable, and user-friendly web applications.
+
+- 💻 Specialized in **React, Next.js, TypeScript, and Node.js**.
+- ⚙️ Experienced with **REST APIs, MySQL, MongoDB, and Git**.
+- 🎨 Focused on building clean, responsive, and maintainable UIs.
+- 🚀 Always learning new technologies and improving my development skills.
+- 🤝 Open to collaborating on interesting projects.
+- 📫 Feel free to connect with me and check out my projects below.
 
 ---
 
