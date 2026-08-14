@@ -95,3 +95,15 @@ Skills: `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `API Integration` `Aut
   <a href="mailto:ziadelsayed046@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ziad-el-sayed-1b0939233/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
+
+---
+
+<div align="center">
+<img
+  src="https://raw.githubusercontent.com/ZiadElsayed01/ZiadElsayed01/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
+</div>
+
+---
